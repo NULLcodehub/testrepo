@@ -1,0 +1,39 @@
+.container {
+  max-width: 600px;
+} 
+
+.text-input{
+  background:#F1F4F8;
+  padding: 7%;
+  border-radius: 5px;
+}
+
+.radio-input{
+  background:#F1F4F8;
+  padding: 7%;
+  border-radius: 5px;
+}
+.radio-btn{
+  background: #ffffff;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-right: 1%;
+  min-width: 15vw;
+  border:1px solid #e0e0e0;
+  border-radius: 5px;
+}
+.radio-btn:hover{
+  border-color: rgb(115, 150, 239);
+}
+
+input[type="radio"]{
+    position: relative;
+    left: 5px;
+    top: 0px;
+    background-color: #f2f1f1;
+    border: 1px solid #7AB9ff;
+}
+.btn-input{
+  background:#3b89ef2e;
+  color: #7AB9ff;
+}
