@@ -199,21 +199,28 @@ input[type="text"]::placeholder{
 
   
   .footer img{
-    width: 10vw;
+    width: 20vw;
     height: 4vh;
   }
   
   .list li{
-    background: #ffffff;;
-    display: block;
+    /* background: #ffffff;; */
+    display: block !important;
   }
  
   .list ul{
-    background: #000;
+    /* background: #000; */
     
     /* background: #b7b7b7; */
     text-align: left;
   }
+
+  .footer-image{
+    /* background: #000; */
+      display: flex;
+      justify-content: left;
+      align-items: center;
+    }
   
 
 
